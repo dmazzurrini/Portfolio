@@ -1,0 +1,12 @@
+Ticker Symbol: t, Dividend Yield: 5.83.  This stock is a good pick for your portfolio
+Ticker Symbol: amzn, Dividend Yield: 0.  This stock is NOT a good pick for your portfolio
+Ticker Symbol: t, Dividend Yield: 5.83.  This stock is a good pick for your portfolio
+Ticker Symbol: o, Dividend Yield: 4.38.  This stock is a good pick for your portfolio
+Ticker Symbol: aapl, Dividend Yield: 0.59.  This stock needs more research
+Ticker Symbol: w, Dividend Yield: 0.  This stock is NOT a good pick for your portfolio
+Ticker Symbol: we, Dividend Yield: 0.  This stock is NOT a good pick for your portfolio
+Ticker Symbol: sto, Dividend Yield: 3.29.  This stock needs more research
+Ticker Symbol: t, Dividend Yield: 5.83.  This stock is a good pick for your portfolio
+Ticker Symbol: nrz, Dividend Yield: 9.69.  This stock needs more research
+Ticker Symbol: t, Dividend Yield: 5.81.  This stock is a good pick for your portfolio
+Ticker Symbol: o, Dividend Yield: 4.4.  This stock is a good pick for your portfolio
